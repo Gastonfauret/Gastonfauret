@@ -1,3 +1,5 @@
+<h1>👋 Hi! I´m Gaston Ariel Fauret</h1>
+
 # 💫 About Me:
 💻Full stack Developer student.<br>🦾Hard Working.<br>♥ Passionate for coding.
 
